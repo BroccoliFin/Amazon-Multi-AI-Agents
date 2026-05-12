@@ -22,3 +22,15 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent%20AI-powered-FF6B6B?style=for-the-badge)](https://github.com/BroccoliFin/Amazon-Multi-AI-Agents)
+
+## ✨ Features
+
+- **End-to-end Product Research** — from query to complete report in minutes
+- **Sophisticated Multi-Agent Architecture** with clear role separation
+- **Real-time Workflow Visualization** using React Flow
+- **Amazon Scraping** + intelligent fallback to mock data
+- **Professional Report Generation** (summary, comparison, insights, buying guide, recommendations)
+- **Optional Shopper Agent** for automated purchasing
+- **Multi-LLM Support**: OpenAI, Anthropic (Claude), Google Gemini
+- **High Resilience**: retries, error recovery, Fixer Agent
+- **Beautiful Modern UI** with dark mode and smooth animations
