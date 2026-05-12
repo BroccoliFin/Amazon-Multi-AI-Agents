@@ -7,6 +7,6 @@
 
 
 <p align="center">
-  <strong>Solana NFT Creator DApp</strong>
+  <strong>Amazon Multi AI Agents for Product Research, Reports & Data Scraping</strong>
 </p>
 
