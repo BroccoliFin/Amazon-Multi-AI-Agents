@@ -83,7 +83,7 @@ Go to Settings and configure:
 - Gemini API Key (optional)
 - Amazon credentials (for Shopper Agent)
 
-## How to Use
+## 📖 How to Use
 Enter a research query (e.g. best wireless noise cancelling headphones under 300).
 Click Start Research.
 Watch agents work in real-time on the Workflow tab.
