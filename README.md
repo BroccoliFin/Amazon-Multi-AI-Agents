@@ -94,3 +94,14 @@ Go to Settings and configure:
 - Shopper Agent stores Amazon credentials — use at your own risk.
 - For production scraping stability, consider proxies and official APIs.
 
+## 📁 Project Structure
+
+├── app/                  # Next.js App Router + API routes
+├── components/           # UI Components
+├── lib/
+│   ├── agents/           # All AI agents logic
+│   ├── providers/        # LLM providers
+│   └── tools/            # Scraping & utility tools
+├── store/                # Zustand store
+└── types/
+
