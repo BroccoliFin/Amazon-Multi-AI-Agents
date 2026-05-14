@@ -106,3 +106,11 @@ Go to Settings and configure:
 ├── store/                # Zustand store
 └── types/
 ```
+## 🗺️ Roadmap
+- Official Amazon Product Advertising API integration
+- Playwright support
+- Research history & database
+- PDF/Markdown export
+- Price tracking & alerts
+- Docker support
+
