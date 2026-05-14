@@ -62,3 +62,10 @@
 ```bash
 git clone https://github.com/BroccoliFin/Amazon-Multi-AI-Agents.git
 cd Amazon-Multi-AI-Agents
+```
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
