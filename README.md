@@ -54,3 +54,11 @@
 - **Visualization**: ReactFlow + Recharts + Framer Motion
 - **State**: Zustand
 - **Scraping**: Cheerio (server-side)
+
+## 🚀 Quick Start
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/BroccoliFin/Amazon-Multi-AI-Agents.git
+cd Amazon-Multi-AI-Agents
