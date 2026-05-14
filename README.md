@@ -89,3 +89,8 @@ Go to Settings and configure:
 - Watch agents work in real-time on the Workflow tab.
 - Read the final report on the Reports tab.
 
+## ⚠️ Important Warnings
+- Scraping Amazon violates their Terms of Service. Use this project for educational and personal purposes only.
+- Shopper Agent stores Amazon credentials — use at your own risk.
+- For production scraping stability, consider proxies and official APIs.
+
