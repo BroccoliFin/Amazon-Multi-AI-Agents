@@ -45,3 +45,12 @@
 | **Reporter**       | Generates comprehensive professional reports                     |
 | **Shopper**        | (Optional) Automates cart / purchase actions                     |
 | **Fixer**          | Error handling, retries and fallbacks                            |
+
+## 🛠 Tech Stack
+
+- **Framework**: Next.js 16 (App Router) + React 19 + TypeScript
+- **Styling**: Tailwind CSS + shadcn/ui + Radix
+- **AI**: OpenAI, Anthropic, Google Gemini
+- **Visualization**: ReactFlow + Recharts + Framer Motion
+- **State**: Zustand
+- **Scraping**: Cheerio (server-side)
