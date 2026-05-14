@@ -96,6 +96,7 @@ Go to Settings and configure:
 
 ## 📁 Project Structure
 
+```bash
 ├── app/                  # Next.js App Router + API routes
 ├── components/           # UI Components
 ├── lib/
@@ -104,4 +105,4 @@ Go to Settings and configure:
 │   └── tools/            # Scraping & utility tools
 ├── store/                # Zustand store
 └── types/
-
+```
