@@ -34,3 +34,14 @@
 - **Multi-LLM Support**: OpenAI, Anthropic (Claude), Google Gemini
 - **High Resilience**: retries, error recovery, Fixer Agent
 - **Beautiful Modern UI** with dark mode and smooth animations
+
+## 🧠 Agent Architecture
+
+| Agent              |                     Responsibility                               |
+|--------------------|------------------------------------------------------------------|
+| **Orchestrator**   | Coordinates the entire workflow, manages state and communication |
+| **Researcher**     | Product search, scraping, data enrichment & reviews              |
+| **Analyzer**       | Compares products and finds best value / highest rated options   |
+| **Reporter**       | Generates comprehensive professional reports                     |
+| **Shopper**        | (Optional) Automates cart / purchase actions                     |
+| **Fixer**          | Error handling, retries and fallbacks                            |
