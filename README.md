@@ -117,3 +117,5 @@ Go to Settings and configure:
 ## 🤝 Contributing
  Pull requests are welcome! Especially improvements in scraping stability, prompt engineering, and UI.
 
+## 🪪 License
+MIT License © BroccoliFin
