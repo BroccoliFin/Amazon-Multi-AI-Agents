@@ -69,3 +69,8 @@ cd Amazon-Multi-AI-Agents
 npm install
 ```
 
+### 3. Run locally
+
+```bash
+npm run dev
+```
