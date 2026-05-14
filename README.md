@@ -114,3 +114,6 @@ Go to Settings and configure:
 - Price tracking & alerts
 - Docker support
 
+## 🤝 Contributing
+ Pull requests are welcome! Especially improvements in scraping stability, prompt engineering, and UI.
+
