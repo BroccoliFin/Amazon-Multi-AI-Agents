@@ -76,3 +76,9 @@ npm run dev
 ```
 Open http://localhost:3000
 
+### 4. Add API Keys
+Go to Settings and configure:OpenAI API Key
+Anthropic API Key (optional)
+Gemini API Key (optional)
+Amazon credentials (for Shopper Agent)
+
